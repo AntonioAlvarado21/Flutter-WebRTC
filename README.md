@@ -1,6 +1,6 @@
-# fluter_webrtc
+# Fluter_webrtc
 
-A new Flutter project.
+This code show how create a peer connection using WebRTC with Flutter.
 
 ## Getting Started
 
